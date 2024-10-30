@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yuksel
+# 👋 Hi, I'm Yüksel
 ### Data Engineer & GCP Specialist
 
 ## 🚀 About Me
